@@ -6,8 +6,7 @@ export default function Gallery() {
   return (
     <div>
       <Header />
-      <h2 className='text-center pt-5'></h2>
-      <section class="images mt-5 pt-5">
+      <section class="images">
         <div class="container-fluid pt-5">
           <div class="row">
             <div class="col-xl-3 col-lg-4 col-md-6">
@@ -96,7 +95,7 @@ export default function Gallery() {
             </div>
             <div class="col-xl-3 col-lg-4 col-md-6">
               <div class="gallery-item mb-4">
-                <img src="https://images.pexels.com/photos/2317904/pexels-photo-2317904.jpeg?auto=compress&cs=tinysrgb&w=600"
+                <img src="https://images.pexels.com/photos/102742/pexels-photo-102742.jpeg?auto=compress&cs=tinysrgb&w=600"
                   alt="" class="w-100 rounded"></img>
               </div>
             </div>
@@ -106,10 +105,105 @@ export default function Gallery() {
                   alt="" class="w-100 rounded"></img>
               </div>
             </div>
+            <div class="col-xl-3 col-lg-4 col-md-6">
+              <div class="gallery-item mb-4">
+                <img src="https://images.pexels.com/photos/106144/rubber-duck-bath-duck-toys-costume-106144.jpeg?auto=compress&cs=tinysrgb&w=600"
+                  alt="" class="w-100 rounded"></img>
+              </div>
+            </div>
+            <div class="col-xl-3 col-lg-4 col-md-6">
+              <div class="gallery-item mb-4">
+                <img src="https://images.pexels.com/photos/47360/flowers-summer-pink-nature-47360.jpeg?auto=compress&cs=tinysrgb&w=600"
+                  alt="" class="w-100 rounded"></img>
+              </div>
+            </div>
+            <div class="col-xl-3 col-lg-4 col-md-6">
+              <div class="gallery-item mb-4">
+                <img src="https://images.pexels.com/photos/1172742/pexels-photo-1172742.jpeg?auto=compress&cs=tinysrgb&w=600"
+                  alt="" class="w-100 rounded"></img>
+              </div>
+            </div>
+            <div class="col-xl-3 col-lg-4 col-md-6">
+              <div class="gallery-item mb-4">
+                <img src="https://images.pexels.com/photos/225203/pexels-photo-225203.jpeg?auto=compress&cs=tinysrgb&w=600"
+                  alt="" class="w-100 rounded"></img>
+              </div>
+            </div>
+            <div class="col-xl-3 col-lg-4 col-md-6">
+              <div class="gallery-item mb-4">
+                <img src="https://images.pexels.com/photos/105221/pexels-photo-105221.jpeg?auto=compress&cs=tinysrgb&w=600"
+                  alt="" class="w-100 rounded"></img>
+              </div>
+            </div>
+            <div class="col-xl-3 col-lg-4 col-md-6">
+              <div class="gallery-item mb-4">
+                <img src="https://images.pexels.com/photos/954046/pexels-photo-954046.jpeg?auto=compress&cs=tinysrgb&w=600"
+                  alt="" class="w-100 rounded"></img>
+              </div>
+            </div>
+            <div class="col-xl-3 col-lg-4 col-md-6">
+              <div class="gallery-item mb-4">
+                <img src="https://images.pexels.com/photos/207518/pexels-photo-207518.jpeg?auto=compress&cs=tinysrgb&w=600"
+                  alt="" class="w-100 rounded"></img>
+              </div>
+            </div>
+            <div class="col-xl-3 col-lg-4 col-md-6">
+              <div class="gallery-item mb-4">
+                <img src="https://images.pexels.com/photos/1444620/pexels-photo-1444620.jpeg?auto=compress&cs=tinysrgb&w=600"
+                  alt="" class="w-100 rounded"></img>
+              </div>
+            </div>
+            <div class="col-xl-3 col-lg-4 col-md-6">
+              <div class="gallery-item mb-4">
+                <img src="https://images.pexels.com/photos/57428/parrot-colorful-plumage-portrait-57428.jpeg?auto=compress&cs=tinysrgb&w=600"
+                  alt="" class="w-100 rounded"></img>
+              </div>
+            </div>
+            <div class="col-xl-3 col-lg-4 col-md-6">
+              <div class="gallery-item mb-4">
+                <img src="https://images.pexels.com/photos/633437/pexels-photo-633437.jpeg?auto=compress&cs=tinysrgb&w=600"
+                  alt="" class="w-100 rounded"></img>
+              </div>
+            </div>
+            <div class="col-xl-3 col-lg-4 col-md-6">
+              <div class="gallery-item mb-4">
+                <img src="https://images.pexels.com/photos/1086584/pexels-photo-1086584.jpeg?auto=compress&cs=tinysrgb&w=600"
+                  alt="" class="w-100 rounded"></img>
+              </div>
+            </div>
+            <div class="col-xl-3 col-lg-4 col-md-6">
+              <div class="gallery-item mb-4">
+                <img src="https://images.pexels.com/photos/2131772/pexels-photo-2131772.jpeg?auto=compress&cs=tinysrgb&w=600"
+                  alt="" class="w-100 rounded"></img>
+              </div>
+            </div>
+            <div class="col-xl-3 col-lg-4 col-md-6">
+              <div class="gallery-item mb-4">
+                <img src="https://images.pexels.com/photos/1082179/pexels-photo-1082179.jpeg?auto=compress&cs=tinysrgb&w=600"
+                  alt="" class="w-100 rounded"></img>
+              </div>
+            </div>
+            <div class="col-xl-3 col-lg-4 col-md-6">
+              <div class="gallery-item mb-4">
+                <img src="https://images.pexels.com/photos/227692/landscape-reflection-waves-ripples-227692.jpeg?auto=compress&cs=tinysrgb&w=600"
+                  alt="" class="w-100 rounded"></img>
+              </div>
+            </div>
+            <div class="col-xl-3 col-lg-4 col-md-6">
+              <div class="gallery-item mb-4">
+                <img src="https://images.pexels.com/photos/456710/pexels-photo-456710.jpeg?auto=compress&cs=tinysrgb&w=600"
+                  alt="" class="w-100 rounded"></img>
+              </div>
+            </div>
+            <div class="col-xl-3 col-lg-4 col-md-6">
+              <div class="gallery-item mb-4">
+                <img src="https://images.pexels.com/photos/2831299/pexels-photo-2831299.jpeg?auto=compress&cs=tinysrgb&w=600" alt="" class="w-100 rounded"></img>
+              </div>
+            </div>
           </div>
         </div>
-      </section>
+      </section >
       <Footer />
-    </div>
+    </div >
   )
 }
