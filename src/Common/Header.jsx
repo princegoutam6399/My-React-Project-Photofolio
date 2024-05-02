@@ -36,10 +36,11 @@ export default function Header() {
                                     </li>
                                 </ul>
                                 <div class="icon ms-auto">
-                                   <Link to={''}><FontAwesomeIcon icon={faTwitter} className='me-2 fs-5' /></Link> 
-                                    <FontAwesomeIcon icon={faFacebook} className='me-2 fs-5' />
-                                    <FontAwesomeIcon icon={faInstagram} className='me-2 fs-5' />
-                                    <FontAwesomeIcon icon={faLinkedin} className='fs-5' />
+                                   <Link to={''}><FontAwesomeIcon icon={faTwitter} className='me-2 fs-5 text-white' /> 
+                                    <FontAwesomeIcon icon={faFacebook} className='me-2 fs-5 text-white' />
+                                    <FontAwesomeIcon icon={faInstagram} className='me-2 fs-5 text-white' />
+                                    <FontAwesomeIcon icon={faLinkedin} className='fs-5 text-white' />
+                                    </Link>
                                 </div>
                             </div>
                         </nav>
