@@ -6,7 +6,7 @@ export default function Gallery() {
   return (
     <div>
       <Header />
-      <section class="images">
+      <section class="images bg-dark text-white">
         <div class="container-fluid pt-5">
           <div class="row">
             <div class="col-xl-3 col-lg-4 col-md-6">
@@ -202,8 +202,8 @@ export default function Gallery() {
             </div>
           </div>
         </div>
+      <Footer/>
       </section >
-      <Footer />
     </div >
   )
 }

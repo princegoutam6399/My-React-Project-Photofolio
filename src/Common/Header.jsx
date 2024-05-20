@@ -1,5 +1,5 @@
 import { faFacebook, faInstagram, faLinkedin, faTwitter } from '@fortawesome/free-brands-svg-icons'
-import { faCameraRetro } from '@fortawesome/free-solid-svg-icons'
+import { faCameraRetro, faMoon, faSun } from '@fortawesome/free-solid-svg-icons'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import React from 'react'
 import { Link } from 'react-router-dom'
@@ -36,10 +36,12 @@ export default function Header() {
                                     </li>
                                 </ul>
                                 <div class="icon ms-auto">
-                                   <Link to={''}><FontAwesomeIcon icon={faTwitter} className='me-2 fs-5 text-white' /> 
-                                    <FontAwesomeIcon icon={faFacebook} className='me-2 fs-5 text-white' />
-                                    <FontAwesomeIcon icon={faInstagram} className='me-2 fs-5 text-white' />
-                                    <FontAwesomeIcon icon={faLinkedin} className='fs-5 text-white' />
+                                    <Link to={''}><FontAwesomeIcon icon={faTwitter} className='me-2 fs-5 text-white' />
+                                        <FontAwesomeIcon icon={faFacebook} className='me-2 fs-5 text-white' />
+                                        <FontAwesomeIcon icon={faInstagram} className='me-2 fs-5 text-white' />
+                                        <FontAwesomeIcon icon={faLinkedin} className='fs-5 text-white' />
+                                        <FontAwesomeIcon icon={faMoon} className='ms-2 fs-5 text-white' />
+                                        <FontAwesomeIcon icon={faSun} className=' fs-5 text-white' />
                                     </Link>
                                 </div>
                             </div>
